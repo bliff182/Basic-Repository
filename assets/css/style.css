@@ -30,14 +30,14 @@ h1 {
     /* width: 300px; */
     color: #fff;
     background: #4aaaa5;
-    padding: 15px;
+    padding: 25px;
     text-align: center;
     float: left;
 }
 
 .navBar{
     /* width: 300px; */
-    padding-top: 40px;
+    padding-top: 50px;
     /* text-align: right; */
     float: right;
 }
@@ -56,19 +56,21 @@ h1 {
     color: #4aaaa5;
     border-bottom: 1px solid #ccc;
     margin-bottom: 30px;
+    margin-left: 10px;
  }
 
  #mainImage {
     float: left;
     margin-right: 20px;
+    margin-left: 10px;
     width: 30%;
     height: 30%;
     border: 3px solid #ccc;
  }
 
- /* p {
-
- } */
+ p {
+    margin-left: 10px;
+ }
 
  footer {
     color: #fff;
@@ -79,3 +81,5 @@ h1 {
     border-top: 8px solid #4aaaa5;
     text-align: center;
  }
+
+ /* starting portfolio.html */
