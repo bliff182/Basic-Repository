@@ -107,10 +107,37 @@ a {
     color: #fff;
     background: #4aaaa5;
     text-align: center;
-    padding: 20px;
-    width: 360px;
+    padding: 10px;
+    width: 380px;
     bottom: 20px;
  }
 
- /* starting contact.html /*
- 
+ /* starting contact.html  */
+
+ #userForm {
+    color: #777;
+}
+
+input[type=text] {
+    width: 920px;
+    padding: 12px 20px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+}
+
+input[type=submit] {
+    color: #fff;
+    background: #4aaaa5;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-top: 30px;
+}
+
+textarea {
+    width: 920px;
+    height: 250px;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
