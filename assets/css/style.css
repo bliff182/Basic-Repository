@@ -1,3 +1,4 @@
+/* index.html */
 
 body {
     background-image: url("../images/concrete_seamless/concrete_seamless.png");
@@ -92,7 +93,7 @@ a {
     text-align: center;
  }
 
- /* starting portfolio.html */
+ /* portfolio.html */
 
  .container {
     margin: 20px;
@@ -112,7 +113,7 @@ a {
     bottom: 20px;
  }
 
- /* starting contact.html  */
+ /* contact.html  */
 
  #userForm {
     color: #777;
