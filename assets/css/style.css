@@ -25,7 +25,7 @@ h1 {
     margin: 0 auto;
 }
 
-#nametag{
+#nametag {
     color: #fff;
     background: #4aaaa5;
     padding: 20px;
@@ -33,7 +33,7 @@ h1 {
     float: left;
 }
 
-.navBar{
+.navBar {
     padding-top: 50px;
     float: right;
 }
@@ -53,33 +53,33 @@ a {
     clear: both;
     margin-bottom: 40px;
     overflow: auto;
- }
+}
 
- .title {
+.title {
     color: #4aaaa5;
     border-bottom: 1px solid #ccc;
     padding-bottom: 10px;
     margin-bottom: 20px;
     margin-left: 10px;
- }
+}
 
- #mainImage {
+#mainImage {
     float: left;
     margin-right: 20px;
     margin-left: 10px;
     width: 30%;
     height: 30%;
     border: 3px solid #ccc;
- }
+}
 
- p {
+p {
     color: #777;
     margin-left: 10px;
- }
+}
 
- /* I'm not sure if this is the sticky footer you had in mind but I tried other ways and couldn't get it to work properly so ¯\_(ツ)_/¯ */
- 
- footer {
+/* I'm not sure if this is the sticky footer you had in mind but I tried other ways and couldn't get it to work properly so ¯\_(ツ)_/¯ */
+
+footer {
     color: #fff;
     font-size: 12px;
     background: #666;
@@ -90,18 +90,18 @@ a {
     position: fixed;
     bottom: 0;
     width: 100%;
- }
+}
 
- /* portfolio.html */
+/* portfolio.html */
 
- .container {
+.container {
     margin: 20px;
     float: left;
     overflow: auto;
     position: relative;
- }
+}
 
- .imageText {
+.imageText {
     font-family: Georgia, Times, "Times New Roman", serif;
     position: absolute;
     color: #fff;
@@ -110,11 +110,11 @@ a {
     padding: 10px;
     width: 380px;
     bottom: 20px;
- }
+}
 
- /* contact.html  */
+/* contact.html  */
 
- #userForm {
+#userForm {
     color: #777;
 }
 
